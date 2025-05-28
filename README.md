@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dineth Sanjuna</h1>
-<h3 align="center">Undergraduate | Faculty of Engineering, University of Peradeniya.</h3>
+<h3 align="center">Undergraduate | Department of Computer Engineering, Faculty of Engineering, University of Peradeniya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineth519&label=Profile%20views&color=0e75b6&style=flat" alt="dineth519" /> </p>
 
